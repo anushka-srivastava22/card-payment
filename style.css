@@ -1,0 +1,38 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.navbar
+{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.payment-box
+{
+    padding-top: 30px;
+}
+.form-group
+{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+input
+{
+    height: 40px;
+    width: 400px;
+}
+td
+{
+    padding: 10px;
+    text-align: center;
+}
+#submit
+{
+    font-weight: bold;
+    font-size: 1.5em;
+    
+}
